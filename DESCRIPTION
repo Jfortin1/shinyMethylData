@@ -5,5 +5,5 @@ Description: Extracted data from 369 TCGA Head and Neck Cancer DNA methylation s
 Author: Jean-Philippe Fortin
 Maintainer: Jean-Philippe Fortin <jfortin@jhsph.edu>
 License: Artistic-2.0
-Depends: R (>= 3.0.0), shinyMethyl
+Depends: R (>= 3.0.0)
 biocViews: DNAMethylation
