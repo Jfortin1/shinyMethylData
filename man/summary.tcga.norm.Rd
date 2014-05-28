@@ -19,6 +19,8 @@ http://cancergenome.nih.gov/cancersselected/headandneck
  }
 \examples{
 data(summary.tcga.norm)	
-# runShinyMethyl(summary.tcga.norm)
+\dontrun{
+runShinyMethyl(summary.tcga.norm)
+}
 }
 \keyword{datasets}
