@@ -19,7 +19,9 @@ http://cancergenome.nih.gov/cancersselected/headandneck
   \code{\link[shinyMethyl]{runShinyMethyl}}  to launch a shinyMethyl session 
  }
 \examples{
-data(TCGAExtractedData)	
-# runShinyMethyl(TCGAExtractedData)
+data(TCGAExtractedData)
+\dontrun{
+runShinyMethyl(TCGAExtractedData)
+}
 }
 \keyword{datasets}
