@@ -15,8 +15,8 @@ The Cancer Genome Atltas (TCGA) Head and Neck Cancer dataset:
 http://cancergenome.nih.gov/cancersselected/headandneck
 }
 \seealso{
-See \code{\link[shinyMethyl]{shinySummarize}} for details on how to perform the data extraction. 
-See \code{\link[shinyMethyl]{runShinyMethyk}} for how to launch a shinyMethyl session.
+These data objects were created by See \code{\link[shinyMethyl]{shinySummarize}} for details on how to perform the data extraction. 
+See \code{\link[shinyMethyl]{runShinyMethyl}} for how to launch a shinyMethyl session.
 }
 \examples{
 data(summary.tcga.norm)	

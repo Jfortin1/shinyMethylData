@@ -16,11 +16,11 @@ http://cancergenome.nih.gov/cancersselected/headandneck
 }
 \seealso{
 See \code{\link[shinyMethyl]{shinySummarize}} for details on how to perform the data extraction. 
-See \code{\link[shinyMethyl]{runShinyMethyk}} for how to launch a shinyMethyl session.
+See \code{\link[shinyMethyl]{runShinyMethyl}} for how to launch a shinyMethyl session.
  }
 \examples{
 data(summary.tcga.raw)	
-\dontrun{}
+\dontrun{
 runShinyMethyl(summary.tcga.raw)
 }
 }
