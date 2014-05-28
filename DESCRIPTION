@@ -8,5 +8,6 @@ Authors@R: c(person("Jean-Phillipe", "Fortin", role = c("cre", "aut"),
 Maintainer: Jean-Philippe Fortin <jfortin@jhsph.edu>
 License: Artistic-2.0
 Depends: R (>= 3.0.0)
+LazyData: yes
 biocViews: DNAMethylation
 Url: https://github.com/Jfortin1/shinyMethylData
