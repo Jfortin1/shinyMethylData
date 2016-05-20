@@ -2,7 +2,7 @@
 \alias{summary.tcga.raw}
 \docType{data}
 \title{
-Example dataset of input data for shinyMethyl
+Example dataset of input data for shinyMethyl for the 450k array
 }
 \description{
 Extracted data from 369 TCGA Head and Neck Cancer DNA methylation samples. The extracted data serve as an example dataset for the package shinyMethyl. Original samples are from 450k methylation arrays, and were obtained from The Cancer Genome Atlas (TCGA). 310 samples are from tumor, 50 are matched normals and 9 are technical replicates of a control cell line. }
