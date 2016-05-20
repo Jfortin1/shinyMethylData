@@ -1,4 +1,4 @@
 shinyMethylData
 ===============
 
-Example dataset for shinyMethyl 
+Example datasets for shinyMethyl for the 450k and EPIC arrays.
